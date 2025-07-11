@@ -3,16 +3,6 @@ import { FiStar, FiExternalLink } from "react-icons/fi";
 
 const Projects = () => {
   const projects = [
-    {
-      img: null,
-      title: "Personal Website",
-      description:
-        "It is an example work of developing a personal website and programming in java script using React+Vite.",
-      year: "2025",
-      tags: ["Codeing,React,Vite"],
-      Hilight: "https://web-kritsada.vercel.app/",
-      More: "https://github.com/Kitsada4435/WebKritsada",
-    },
     // {
     //   img: null,
     //   title: "ProjectCoding",
@@ -24,6 +14,16 @@ const Projects = () => {
     //     "https://drive.google.com/drive/folders/1nquL75G76QRhii2ZiqNFrmhTP0bZCb0v?usp=sharing",
     //   More: "https://drive.google.com/drive/folders/1nquL75G76QRhii2ZiqNFrmhTP0bZCb0v?usp=sharing",
     // },
+    {
+      img: null,
+      title: "Personal Website",
+      description:
+        "It is an example work of developing a personal website and programming in java script using React+Vite.",
+      year: "2025",
+      tags: ["Codeing,React,Vite"],
+      Hilight: "https://web-kritsada.vercel.app/",
+      More: "https://github.com/Kitsada4435/WebKritsada",
+    },
     {
       img: null,
       title: "Speaker",
@@ -57,16 +57,16 @@ const Projects = () => {
         "https://drive.google.com/drive/folders/1KOr_QQIWvBhsFn2-q8JhTL2ENBdTwUjk?usp=sharing",
       More: "https://drive.google.com/drive/folders/1KOr_QQIWvBhsFn2-q8JhTL2ENBdTwUjk?usp=sharing",
     },
-    // {
-    //   img: null,
-    //   title: "Tiktok CMC ",
-    //   description:
-    //     "A content creator’s archive showcasing ideation, editing, and channel management. Includes a viral TikTok video (1.1M views, 22.8K likes) and content that blends entertainment with strategic growth.",
-    //   year: "2023-2024",
-    //   tags: ["Editor,ContentCreator"],
-    //   Hilight: "https://www.tiktok.com/@cmc.cct/video/7418135753277852946",
-    //   More: "https://www.tiktok.com/@cmc.cct",
-    // },
+    {
+      img: null,
+      title: "Vital TikTok Clip (CMC.cct)",
+      description:
+        "Contributed to ideation, production, and publishing strategy for a viral TikTok clip reaching 1.1M views and 22.8K likes. Managed editing and platform optimization as part of the content team under an organizational account.",
+      year: "2023-2024",
+      tags: ["Video Editing", "Content Strategy", "Viral Content"],
+      Hilight: "https://www.tiktok.com/@cmc.cct/video/7418135753277852946",
+      More: "https://www.tiktok.com/@cmc.cct",
+    },
   ];
 
   return (
