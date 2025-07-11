@@ -5,6 +5,16 @@ const Projects = () => {
   const projects = [
     {
       img: null, // สร้างตัวรับข้อมูลรูปภาพหรือ URL ของรูปภาพ
+      title: "Personal Website",
+      description:
+        "It is an example work of developing a personal website and programming in java script using React+Vite.",
+      year: "2025",
+      tags: ["Codeing,React,Vite"],
+      Hilight: "https://web-kritsada.vercel.app/",
+      More: "https://github.com/Kitsada4435/WebKritsada",
+    },
+    {
+      img: null, // สร้างตัวรับข้อมูลรูปภาพหรือ URL ของรูปภาพ
       title: "ProjectCoding",
       description:
         "A showcase of coding projects and experiments that demonstrate frontend development skills and problem-solving abilities. Explore various interfaces and interactive ideas crafted with passion",
