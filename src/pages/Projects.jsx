@@ -4,7 +4,7 @@ import { FiStar, FiExternalLink } from "react-icons/fi";
 const Projects = () => {
   const projects = [
     {
-      img: null, // สร้างตัวรับข้อมูลรูปภาพหรือ URL ของรูปภาพ
+      img: null,
       title: "Personal Website",
       description:
         "It is an example work of developing a personal website and programming in java script using React+Vite.",
@@ -13,19 +13,19 @@ const Projects = () => {
       Hilight: "https://web-kritsada.vercel.app/",
       More: "https://github.com/Kitsada4435/WebKritsada",
     },
+    // {
+    //   img: null,
+    //   title: "ProjectCoding",
+    //   description:
+    //     "A showcase of coding projects and experiments that demonstrate frontend development skills and problem-solving abilities. Explore various interfaces and interactive ideas crafted with passion",
+    //   year: "Current",
+    //   tags: ["Codeing"],
+    //   Hilight:
+    //     "https://drive.google.com/drive/folders/1nquL75G76QRhii2ZiqNFrmhTP0bZCb0v?usp=sharing",
+    //   More: "https://drive.google.com/drive/folders/1nquL75G76QRhii2ZiqNFrmhTP0bZCb0v?usp=sharing",
+    // },
     {
-      img: null, // สร้างตัวรับข้อมูลรูปภาพหรือ URL ของรูปภาพ
-      title: "ProjectCoding",
-      description:
-        "A showcase of coding projects and experiments that demonstrate frontend development skills and problem-solving abilities. Explore various interfaces and interactive ideas crafted with passion",
-      year: "Current",
-      tags: ["Codeing"],
-      Hilight:
-        "https://drive.google.com/drive/folders/1nquL75G76QRhii2ZiqNFrmhTP0bZCb0v?usp=sharing",
-      More: "https://drive.google.com/drive/folders/1nquL75G76QRhii2ZiqNFrmhTP0bZCb0v?usp=sharing",
-    },
-    {
-      img: null, // สร้างตัวรับข้อมูลรูปภาพหรือ URL ของรูปภาพ
+      img: null,
       title: "Speaker",
       description:
         "A portfolio of public speaking experiences and presentations. Highlights sessions where ideas, creativity, and technical topics were shared with audiences in engaging and impactful ways.",
@@ -36,7 +36,7 @@ const Projects = () => {
       More: "https://drive.google.com/drive/folders/1S2lzY0T-uX5EqNlGCDmQ3l07Y5EKkUed?usp=sharing",
     },
     {
-      img: null, // สร้างตัวรับข้อมูลรูปภาพหรือ URL ของรูปภาพ
+      img: null,
       title: "ShortVideo",
       description:
         "A collection of short-form video editing works, featuring creative cuts, storytelling, and visual rhythm. Ideal for social media formats and content with dynamic presentation styles.",
@@ -47,7 +47,7 @@ const Projects = () => {
       More: "https://drive.google.com/drive/folders/1DHgDtReSilFunDfBkGozTebHe90lbYbO?usp=sharing",
     },
     {
-      img: null, // สร้างตัวรับข้อมูลรูปภาพหรือ URL ของรูปภาพ
+      img: null,
       title: "Infographic Design",
       description:
         "An album of infographic, banner, and logo designs used across various projects. These visuals reflect both informative clarity and aesthetic appeal, crafted with thoughtful design principles.",
@@ -57,16 +57,16 @@ const Projects = () => {
         "https://drive.google.com/drive/folders/1KOr_QQIWvBhsFn2-q8JhTL2ENBdTwUjk?usp=sharing",
       More: "https://drive.google.com/drive/folders/1KOr_QQIWvBhsFn2-q8JhTL2ENBdTwUjk?usp=sharing",
     },
-    {
-      img: null, // สร้างตัวรับข้อมูลรูปภาพหรือ URL ของรูปภาพ
-      title: "Tiktok CMC ",
-      description:
-        "A content creator’s archive showcasing ideation, editing, and channel management. Includes a viral TikTok video (1.1M views, 22.8K likes) and content that blends entertainment with strategic growth.",
-      year: "2023-2024",
-      tags: ["Editor,ContentCreator"],
-      Hilight: "https://www.tiktok.com/@cmc.cct/video/7418135753277852946",
-      More: "https://www.tiktok.com/@cmc.cct",
-    },
+    // {
+    //   img: null,
+    //   title: "Tiktok CMC ",
+    //   description:
+    //     "A content creator’s archive showcasing ideation, editing, and channel management. Includes a viral TikTok video (1.1M views, 22.8K likes) and content that blends entertainment with strategic growth.",
+    //   year: "2023-2024",
+    //   tags: ["Editor,ContentCreator"],
+    //   Hilight: "https://www.tiktok.com/@cmc.cct/video/7418135753277852946",
+    //   More: "https://www.tiktok.com/@cmc.cct",
+    // },
   ];
 
   return (
