@@ -16,6 +16,17 @@ const Projects = () => {
     // },
     {
       img: null,
+      title: "Infographic Design",
+      description:
+        "An album of infographic, banner, and logo designs used across various projects. These visuals reflect both informative clarity and aesthetic appeal, crafted with thoughtful design principles.",
+      year: "NOW",
+      tags: ["Infographic,Banner,Logo"],
+      Hilight:
+        "https://drive.google.com/drive/folders/1KOr_QQIWvBhsFn2-q8JhTL2ENBdTwUjk?usp=sharing",
+      More: "https://drive.google.com/drive/folders/1KOr_QQIWvBhsFn2-q8JhTL2ENBdTwUjk?usp=sharing",
+    },
+    {
+      img: null,
       title: "Personal Website",
       description:
         "It is an example work of developing a personal website and programming in java script using React+Vite.",
@@ -23,17 +34,6 @@ const Projects = () => {
       tags: ["Codeing,React,Vite"],
       Hilight: "https://web-kritsada.vercel.app/",
       More: "https://github.com/Kitsada4435/WebKritsada",
-    },
-    {
-      img: null,
-      title: "Speaker",
-      description:
-        "A portfolio of public speaking experiences and presentations. Highlights sessions where ideas, creativity, and technical topics were shared with audiences in engaging and impactful ways.",
-      year: "Current",
-      tags: ["Speaker"],
-      Hilight:
-        "https://drive.google.com/drive/folders/1S2lzY0T-uX5EqNlGCDmQ3l07Y5EKkUed?usp=sharing",
-      More: "https://drive.google.com/drive/folders/1S2lzY0T-uX5EqNlGCDmQ3l07Y5EKkUed?usp=sharing",
     },
     {
       img: null,
@@ -48,15 +48,16 @@ const Projects = () => {
     },
     {
       img: null,
-      title: "Infographic Design",
+      title: "Speaker",
       description:
-        "An album of infographic, banner, and logo designs used across various projects. These visuals reflect both informative clarity and aesthetic appeal, crafted with thoughtful design principles.",
-      year: "NOW",
-      tags: ["Infographic,Banner,Logo"],
+        "A portfolio of public speaking experiences and presentations. Highlights sessions where ideas, creativity, and technical topics were shared with audiences in engaging and impactful ways.",
+      year: "Current",
+      tags: ["Speaker"],
       Hilight:
-        "https://drive.google.com/drive/folders/1KOr_QQIWvBhsFn2-q8JhTL2ENBdTwUjk?usp=sharing",
-      More: "https://drive.google.com/drive/folders/1KOr_QQIWvBhsFn2-q8JhTL2ENBdTwUjk?usp=sharing",
+        "https://drive.google.com/drive/folders/1S2lzY0T-uX5EqNlGCDmQ3l07Y5EKkUed?usp=sharing",
+      More: "https://drive.google.com/drive/folders/1S2lzY0T-uX5EqNlGCDmQ3l07Y5EKkUed?usp=sharing",
     },
+
     {
       img: null,
       title: "Vital TikTok Clip (CMC.cct)",
